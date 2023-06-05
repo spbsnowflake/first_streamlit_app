@@ -1,1 +1,3 @@
-created the main python profile
+import streamlit
+
+streamlit.title('My Parents New Healthy Diner')
